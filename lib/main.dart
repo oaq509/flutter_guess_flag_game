@@ -7,6 +7,7 @@ import 'package:guess_flag/HomePage.dart';
 void main() {  
   SystemChrome.setSystemUIOverlayStyle(SystemUiOverlayStyle(
    statusBarColor: Colors.transparent,
+   
 ));
   runApp(MyApp());
 }
